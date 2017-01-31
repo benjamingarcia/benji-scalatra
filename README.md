@@ -1,9 +1,9 @@
-# benji-scalatra #
+# benji-scala-app #
 
 ## Build & Run ##
 
 ```sh
-$ cd benji-scalatra
+$ cd benji-scala-app
 $ ./sbt
 > jetty:start
 > browse
